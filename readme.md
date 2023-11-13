@@ -1,3 +1,6 @@
-Application avec connexion sécurisé pour accèder à un clone de la page d'accueil de netflix
+# CLONE DE NETFLIX EN JS ET PHP
 
-les logs sont à remplacer dans index.php et php/inscription.php
+## Application avec connexion sécurisé pour accèder à un clone de la page d'accueil de netflix
+
+## les logs sont à remplacer dans index.php et php/inscription.php
+
